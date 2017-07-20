@@ -1,0 +1,13 @@
+runtime: python27
+api_version: 1
+threadsafe: true
+
+handlers:
+#- url: /animals
+#  script: main.app
+#  login: required
+# auth_fail_action: unauthorized
+  
+- url: /.*
+  script: main.app
+  
