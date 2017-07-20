@@ -9,12 +9,12 @@
 	4) There exists a relationship between the two entities  
 	5) Able to POST, GET, PATCH, PUT, DELETE  
 	Commands of interest:  
-		/animals?checkedIn=:boolean 	  -- GET request for animals that are checked in  
-		/animals 						            -- GET request will return all animals  
-		/zoo/:zooid/animals 			      -- GET request will return an array of full JSON animals entries  
+		/animals?checkedIn=:boolean	-- GET request for animals that are checked in  
+		/animals			-- GET request will return all animals  
+		/zoo/:zooid/animals 		-- GET request will return an array of full JSON animals entries  
 		/zoos/:zooid/animals/:animalid	-- GET request with return information of an individual animal at individual zoo  
-		/zoos/:zooid 					          -- GET request will return information of an individual zoo  
-		/zoos 							            -- GET request will return all zoos  
+		/zoos/:zooid 			-- GET request will return information of an individual zoo  
+		/zoos 				-- GET request will return all zoos  
 		/zoos/:zooid/animals/:animalid 	-- DELETE request will check a animal back in  
 		/zoos/:zooid/animals/:animalid 	-- PUT request will check a animal out to zoo  
 		
