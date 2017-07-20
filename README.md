@@ -1,5 +1,6 @@
 # REST-API-Cloud-Back-end
-## Author: * **Yae Jin Oh** (https://www.linkedin.com/in/yaejinoh/)
+## Author: 
+* **Yae Jin Oh** (https://www.linkedin.com/in/yaejinoh/)
 ## Date: 2/19/17
 ## Description:	 
 	1) A REST interface backed by Google's App Engine platform with data stored on Google Cloud  
