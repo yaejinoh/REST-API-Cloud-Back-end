@@ -1,8 +1,7 @@
-# REST-API-Cloud-Back-end
-## Author: 
-* **Yae Jin Oh** (https://www.linkedin.com/in/yaejinoh/)
-## Date: 2/19/17
-## Description:	 
+## REST-API-Cloud-Back-end
+### Author: Yae Jin Oh (https://www.linkedin.com/in/yaejinoh/)
+### Date: 2/19/17
+### Description:	 
 	1) A REST interface backed by Google's App Engine platform with data stored on Google Cloud  
 	Datastore that tracks two entities (zoos and animals) with 5 and 7 properties  
 	2) User accounts are supported (ie. data is tied to specific users that only they can see or modify)  
